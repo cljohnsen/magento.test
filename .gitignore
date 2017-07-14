@@ -1,1 +1,4 @@
 .DS_Store
+local.xml
+var/cache
+var/session
